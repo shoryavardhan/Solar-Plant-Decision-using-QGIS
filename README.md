@@ -1,0 +1,1 @@
+# Solar-Plant-Decision-using-QGIS
