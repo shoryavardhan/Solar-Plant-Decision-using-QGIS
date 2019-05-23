@@ -22,9 +22,8 @@ commercial; and (iii) Ground-mounted large scale.
 Global Horizontal Irradiation is the total solar energy received on a unit area of horizontal surface. It
 includes energy from the sun that is received in a direct beam (the horizontal component of DNI) and DHI.
 
-# 4.DNI - Direct Normal Irradiation which is the beam energy component received on a unit area of surface directly
-facing to the sun at all times. DNI is of particular interest for solar installations that track the sun and for
-concentrating solar technologies(that can only make use of the direct beam component of irradiation)
+# 4.DNI - 
+Direct Normal Irradiation which is the beam energy component received on a unit area of surface directly facing to the sun at all times. DNI is of particular interest for solar installations that track the sun and for concentrating solar technologies(that can only make use of the direct beam component of irradiation)
 
 # 5.GTI - 
 Global Tilted Irradiation is the total energy received on a unit area of a tilted surface .It includes direct beam
